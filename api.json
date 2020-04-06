@@ -1,0 +1,69 @@
+{
+  "data": {
+    "planos": [
+      {
+        "total_documento_fiscal": 10,
+        "total_documento_contabil": 10,
+        "total_pro_labore": 1,
+        "valor": 69.9
+      },
+      {
+        "total_documento_fiscal": 30,
+        "total_documento_contabil": 50,
+        "total_pro_labore": 2,
+        "valor": 89.9
+      },
+      {
+        "total_documento_fiscal": 50,
+        "total_documento_contabil": 100,
+        "total_pro_labore": 2,
+        "valor": 109.9
+      },
+      {
+        "total_documento_fiscal": 100,
+        "total_documento_contabil": 150,
+        "total_pro_labore": 2,
+        "valor": 149.9
+      },
+      {
+        "total_documento_fiscal": 150,
+        "total_documento_contabil": 150,
+        "total_pro_labore": 2,
+        "valor": 189.9
+      },
+      {
+        "total_documento_fiscal": 200,
+        "total_documento_contabil": 200,
+        "total_pro_labore": 2,
+        "valor": 219.9
+      },
+      {
+        "total_documento_fiscal": 300,
+        "total_documento_contabil": 200,
+        "total_pro_labore": 2,
+        "valor": 269.9
+      },
+      {
+        "total_documento_fiscal": 500,
+        "total_documento_contabil": 200,
+        "total_pro_labore": 2,
+        "valor": 349.9
+      },
+      {
+        "total_documento_fiscal": 700,
+        "total_documento_contabil": 10,
+        "total_pro_labore": 2,
+        "valor": 409.9
+      }
+    ],
+    "maxDocsFiscais": 700,
+    "maxProLabores": 2,
+    "maxPrice": 409.9,
+    "minPrice": 69.9,
+    "maxDocsContabeis": 200,
+    "valorAberturaServico": 0,
+    "valorAberturaComercio": 30,
+    "valorAberturaIndustria": 30,
+    "valorAbertura": 99.9
+  }
+}
