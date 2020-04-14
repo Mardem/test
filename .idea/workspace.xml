@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1299e6c5-812a-40de-9ec7-66c20b801e46" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/imposto-renda.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/imposto-renda.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,7 +57,7 @@
       <workItem from="1586196116311" duration="56000" />
       <workItem from="1586266880607" duration="462000" />
       <workItem from="1586825182815" duration="1251000" />
-      <workItem from="1586826657539" duration="3960000" />
+      <workItem from="1586826657539" duration="4985000" />
     </task>
     <servers />
   </component>
